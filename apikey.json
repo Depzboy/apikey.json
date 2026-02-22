@@ -1,7 +1,9 @@
 {
   "allowed_tokens": [
-  "8320805379:AAFv7tXSSx5MzE4Kb_utuOWs9_P9hecPkbo",
-  "7841281621:AAEB_LFhh4M76CwEys7M46gz3qxGmYmjXvw"
-  
+    "8320805379:AAFv7tXSSx5MzE4Kb_utuOWs9_P9hecPkbo",
+    "7841281621:AAEB_LFhh4M76CwEys7M46gz3qxGmYmjXvw"
+  ],
+  "allowed_keys": [
+    "XSMONS_PREMIUM_2026"
   ]
 }
